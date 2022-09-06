@@ -1,0 +1,43 @@
+.wholebody{
+    background-color: #ccc;
+}
+.container{
+    display: flex;width: 50%;margin: auto;
+}
+.leftcontainer{
+    background-color:#2a78ab;color:white;width: 40%;
+}
+.rightcontainer{
+    width: 60%;background-color: white;
+}
+.heading{
+    border: 1px solid white;background-color:#e0effa;padding-left: 15px;margin-left: 25px;margin-top: 40px;
+}
+.para{
+    margin-left:76px;margin-right:70px;margin-top: -45px;
+}
+.list{
+    margin-left:13%;margin-right:18%;font-family: Arial, Helvetica, sans-serif;
+}
+.images
+{
+    margin-left: 25px;display: flex;
+}
+.paragraph{
+    margin-top: -35px;margin-left:83px;margin-right:70px;
+}
+.name{
+    margin-left: 30px;margin-top:30px;
+}
+.cast{
+    margin-left: 33px;margin-top: -10px;
+}
+.social li{
+    list-style-type:none;display:flex;margin-left: 10px;
+}
+.skills{
+    margin-left: 40px
+}
+.services{
+    margin-left: 30px;
+}

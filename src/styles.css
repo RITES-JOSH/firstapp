@@ -22,9 +22,10 @@ body{
 .leftside img ol{
     float: left;
 }
-.rightside h4{
-    margin-bottom:-3%;
+.para{
+
 }
+
 
 .personaldetails li img{
     margin-right: 10px;
@@ -32,4 +33,7 @@ body{
 
 .personaldetails li span{ 
     font-size: 13px;
+}
+.list{
+    list-style-type:none;margin-left:17%;margin-right:15%;font-family: Arial, Helvetica, sans-serif;
 }
